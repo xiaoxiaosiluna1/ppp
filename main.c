@@ -47,6 +47,11 @@ int main(){
             scanf("%c",&x);
             scanf("%c",&x);
         }
+        if(code ==4){
+            printf("chengxujieshu\n");
+            break;
+
+        }
         }
 
    
