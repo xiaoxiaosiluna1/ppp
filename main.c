@@ -22,7 +22,24 @@ int main(){
             scanf("%c",&x);
             scanf("%c",&x);
         }
-       
+        if(code == 2){
+         printf("jinruquqianggongneng,qingshuruyaoqudejine:\n");
+         int qu;
+         scanf("%d",&qu);
+         if(qian>=qu){
+             qian-=qu;
+             printf("quqianchenggong,dianjihuichejixu\n");
+             char x;
+             scanf("%c",&x);
+             scanf("%c",&x);
+         }
+         else{
+             printf("yuebuzu,dianjihuichejixu\n");
+             char x;
+             scanf("%c",&x);
+             scanf("%c",&x);
+         }   
+        }
         }
 
    
