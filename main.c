@@ -40,6 +40,13 @@ int main(){
              scanf("%c",&x);
          }   
         }
+        if(code == 3){
+            printf("dangqianyuewei:%d\n",qian);
+            printf("dianjihuichejixu\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
+        }
         }
 
    
